@@ -1,5 +1,5 @@
 const config = {
-  phone: '5585988149571',
+  phone: '5585900000000',
   fallbackMessage: 'Olá, vim pelo site e gostaria de falar com um advogado.'
 };
 
